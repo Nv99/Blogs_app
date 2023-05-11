@@ -26,5 +26,5 @@ production:
   adapter: postgresql
   database: blogsapp_production
   username: naveen
-  password: <%= ENV['BLOGSAPP_DATABASE_PASSWORD'] %>
-  url: <%= ENV['DATABASE_URL'] %>
+  password: XXfu37HxAOAs1iTYNVOcQNyzUXdxoRkM
+  url: postgres://naveen:XXfu37HxAOAs1iTYNVOcQNyzUXdxoRkM@dpg-chedrirhp8ubgo0mbf5g-a/blogsapp_production
