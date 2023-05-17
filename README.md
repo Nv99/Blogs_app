@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+Can be viewed here
+https://blogging-cw6z.onrender.com/articles/1
