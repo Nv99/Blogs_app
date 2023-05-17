@@ -35,5 +35,6 @@
 /config/master.key
 
 /db/schema.rb
+/node_modules
 
  
