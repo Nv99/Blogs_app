@@ -23,4 +23,4 @@ Things you may want to cover:
 
 * ...
 Can be viewed here
-https://blogging-cw6z.onrender.com/articles/1
+https://blogging-cw6z.onrender.com
